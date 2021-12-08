@@ -20,10 +20,10 @@ require (
 	github.com/onsi/gomega v1.11.0
 	github.com/opencontainers/go-digest v1.0.0
 	github.com/opencontainers/image-spec v1.0.2-0.20190823105129-775207bd45b6
-	github.com/opencontainers/runc v1.0.0-rc93
-	github.com/opencontainers/runtime-spec v1.0.3-0.20200929063507-e6143ca7d51d
+	github.com/opencontainers/runc v1.0.3
+	github.com/opencontainers/runtime-spec v1.0.3-0.20210326190908-1c3f411f0417
 	github.com/opencontainers/runtime-tools v0.9.0
-	github.com/opencontainers/selinux v1.8.0
+	github.com/opencontainers/selinux v1.8.2
 	github.com/openshift/imagebuilder v1.2.0
 	github.com/pkg/errors v0.9.1
 	github.com/prometheus/procfs v0.6.0 // indirect
@@ -36,7 +36,7 @@ require (
 	go.etcd.io/bbolt v1.3.5
 	golang.org/x/crypto v0.0.0-20201221181555-eec23a3978ad
 	golang.org/x/sync v0.0.0-20201207232520-09787c993a3a
-	golang.org/x/sys v0.0.0-20210216224549-f992740a1bac
+	golang.org/x/sys v0.0.0-20210426230700-d19ff857e887
 	k8s.io/klog v1.0.0 // indirect
 )
 
