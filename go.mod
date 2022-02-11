@@ -8,7 +8,7 @@ require (
 	github.com/containers/image/v5 v5.10.5
 	github.com/containers/ocicrypt v1.1.0
 	github.com/containers/storage v1.28.1
-	github.com/docker/distribution v2.7.1+incompatible
+	github.com/docker/distribution v2.8.0+incompatible
 	github.com/docker/go-units v0.4.0
 	github.com/docker/libnetwork v0.8.0-dev.2.0.20190625141545-5a177b73e316
 	github.com/fsouza/go-dockerclient v1.7.2
